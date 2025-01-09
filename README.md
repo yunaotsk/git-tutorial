@@ -1,1 +1,2 @@
-Git Tutorial - Yuna Otsuki 
+Git Tutorial - Yuna Otsuki
+UChicago Student Resource Guide
